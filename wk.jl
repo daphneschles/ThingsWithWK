@@ -31,7 +31,7 @@ p = parameters:
 Q = forcing function (flow rate in the vessel, in mL/s)
 =#
 function wk2(u,p,t)
-    R = p[1]
+    R = p[3]
     C = p[2]
     (Q_def(t) - u/R)/C
 end
