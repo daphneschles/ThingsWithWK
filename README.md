@@ -6,4 +6,4 @@ The Windkessel models are a family of differential equations meant to model pres
 
 ## Notes
 
-To load real data, check out the [WFDB][https://archive.physionet.org/physiotools/wfdb.shtml] software package, a super useful, lightweight tool for loading data from the MGH/MF database.
+To load real data, check out the [WFDB](https://archive.physionet.org/physiotools/wfdb.shtml) software package, a super useful, lightweight tool for loading data from the MGH/MF database.
